@@ -4,8 +4,7 @@ Cette application est l'exemple parfait pour comprendre comment gérer des donn�
 <img width="1920" height="1080" alt="Screenshot (113)" src="https://github.com/user-attachments/assets/1dd5a231-300e-4104-b66c-733877cf0472" />
 
 * Explication des composants :
-
-  1. La mémoire de l'application (La Variable)
+ 1. La mémoire de l'application (La Variable)
 int _counter = 0; : C'est une petite boîte qui stocke un nombre entier. Au début, elle vaut 0.
 
 Chaque fois que vous cliquez, on change ce nombre avec _increment (+1) ou _decrement (-1).
